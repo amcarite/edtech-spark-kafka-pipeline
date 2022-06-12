@@ -39,11 +39,9 @@ docker-compose down
 
 ## Files in Repo
 
-- jupyter-history.txt
-  - Console history file which captures the commands I entered in when building this pipeline 
 - docker-compose.yml
   - docker-compose file with all software services needed to run this pipeline
-- amcarite-Project-2.ipynb
+- edtech_pipeline_analysis.ipynb
   - jupyter notebook with pyspark. Commands notated with additional information on overall pipeline 
 
 ---
